@@ -1,0 +1,25 @@
+{
+  "current_profile": "OSMOD 8",
+  "profiles": [
+    {
+      "name": "OSMOD 8",
+      "speed": 18,
+      "scroll_lines": 3
+    },
+    {
+      "name": "EX-G Pro",
+      "speed": 13,
+      "scroll_lines": 5
+    },
+    {
+      "name": "Touch Pad",
+      "speed": 15,
+      "scroll_lines": 16
+    },
+    {
+      "name": "test",
+      "speed": 10,
+      "scroll_lines": 10
+    }
+  ]
+}
